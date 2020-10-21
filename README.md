@@ -6,10 +6,9 @@ Project ini merupakan submission untuk syarat kelulusan pada kelas Machine Learn
 
 Dalam hal ini saya menggunakan Convolution Neural Network (CNN) yang merupakan salah satu jenis Neural Network yang biasa digunakan pada data image untuk melakukan klasifikasi gambar(images), selain itu digunakan pula framework Keras (API neural network tingkat tinggi) yang ditulis dengan Python dan mampu berjalan di atas TensorFlow. Tingkat keakuratan dari model yang saya buat mencapai 96%. Sehingga model ini dapat mengenali bentuk tangan yang membentuk *rock, paper, scissors* (batu, kertas, gunting).
 
-:gear: # Instalasi
+# Instalasi
 Project ini berekstensi **.ipynb**, untuk dapat menggunakannya pastikan perangkat yang digunakan sudah terinstall software **Jupyter Notebok** atau dapat juga menggunakan **Google Colab** untuk membuat atau menggunakannya.
 
-:balance_scale: # License
+# License
 Project ini sudah memiliki lisensi MIT License, untuk mengetahui lebih lanjut, silahkan kunjungi https://opensource.org/licenses/MIT 
-
 
